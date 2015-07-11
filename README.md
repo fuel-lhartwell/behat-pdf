@@ -1,2 +1,2 @@
 # behat-pdf
-Text pdf text content using behat
+Code sample used to illustrate how to test pdf content using behat
