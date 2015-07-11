@@ -58,7 +58,6 @@ class FeatureContext implements Context, SnippetAcceptingContext
         foreach ($pages as $i => $page) {
             $this->pages[++$i] = $page->getText();
         }
-        print_r($this->pages);
     }
 
     /**
