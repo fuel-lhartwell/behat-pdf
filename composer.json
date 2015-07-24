@@ -1,10 +1,9 @@
 {
     "name": "amimenat/behatpdf",
-    "description": "How to use Behat to test for text in pdf",
+    "description": "Testing PDF content with PHP and behat",
     "authors": [
         {
-            "name": "Amine Matmati",
-            "email": "amine.matmati@gmail.com"
+            "name": "Amine Matmati"
         }
     ],
     "minimum-stability": "dev",
